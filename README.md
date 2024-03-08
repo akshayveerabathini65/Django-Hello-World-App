@@ -20,11 +20,12 @@ Make sure you have the following installed:
    ```bash
    git clone https://github.com/yourusername/HelloWorldDjango.git
    cd HelloWorldDjango
-```
+   ```
 2. **Create a virtual environment (optional but recommended):**
-```bash
-python -m venv venv
-```
+
+   ```bash
+   python -m venv venv
+   ```
 3. **Activate the virtual environment:**
 ```bash
 venv\Scripts\activate
@@ -43,10 +44,10 @@ python manage.py runserver
 ```
 7. **Open your browser and navigate to http://127.0.0.1:8000/**
 
-##Accessing the Hello World JSON Response
+## Accessing the Hello World JSON Response
 JSON response URL: http://127.0.0.1:8000/hello/json/
 
-##Notes
+## Notes
 
 Make sure the virtual environment is activated whenever you are working on the project.
 
